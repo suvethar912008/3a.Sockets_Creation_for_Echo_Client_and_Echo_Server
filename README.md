@@ -63,13 +63,11 @@ if __name__ == "__main__":
     echo_client()
 
 ## OUPUT
-```
 Server:
 <img width="362" height="208" alt="image" src="https://github.com/user-attachments/assets/f2013e8d-9770-4dbf-97c8-49b7198c1544" />
 client:
 <img width="412" height="271" alt="image" src="https://github.com/user-attachments/assets/bd4d84c9-e82b-40d2-9904-dafbeb69cd93" />
 
-```
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
